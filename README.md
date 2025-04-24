@@ -23,4 +23,4 @@ Recommendations
 
 Power BI:
 
-https://app.powerbi.com/groups/me/reports/f61d888c-795e-45fe-9e53-91512f6558bc/241d5480e0b204464a60?experience=power-bi
+(https://app.powerbi.com/view?r=eyJrIjoiMWFlMjgyOWQtNzZhZC00MDk2LWE3YWMtZDNmZmViMmFjZTc5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
